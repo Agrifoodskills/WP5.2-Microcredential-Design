@@ -1,0 +1,8 @@
+# Learning outcomes, one per session, each developing competencies.
+# Authored in the session; stored here because slides and questions
+# reference them by id and ids have to be unique.
+outcomes:
+  O1:
+    statement: "Describe what Introduction to the workshop is for."
+    block: 01-introduction-to-the-workshop
+    develops: [C1]

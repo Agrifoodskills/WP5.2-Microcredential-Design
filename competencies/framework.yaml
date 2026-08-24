@@ -1,0 +1,7 @@
+# Competencies build across sessions: what a learner can do by the
+# end of the module, not by the end of any one session.
+competencies:
+  C1:
+    label: "Core practice in WP5.2 Microcredential Design"
+    description: >-
+      Replace this with what somebody can do after the whole module.
