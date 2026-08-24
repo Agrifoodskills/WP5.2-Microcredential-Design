@@ -44,6 +44,7 @@ layout: Full
 title: By the end, partners will be able to
 full:
   type: ul
+  color: accent1
   items:
     - Explain the route from 12 validated occupational profiles to eight microcredentials
     - Identify the 170-hour commitment within each microcredential
