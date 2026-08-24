@@ -67,6 +67,8 @@ full:
       items:
         - The consortium shortlisted the final eight profiles
         - Partners develop and deliver microcredentials from month 18 to month 36
+        - |+
+
     - Piloting completes by the end of month 48
 notes: |
   Ask: what has changed between the original longlist and the eight
