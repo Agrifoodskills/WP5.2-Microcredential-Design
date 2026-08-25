@@ -13,9 +13,21 @@ role: title
 ---
 
 --- slide
-id: s-02
+id: wp52-02
 layout: Full
-role: outcomes
+title: By the end, partners will be able to
+full:
+  type: ul
+  color: accent1
+  items:
+    - Explain the route from validated occupational profiles to microcredentials
+    - Identify the 170-hour commitment within each microcredential
+    - Sketch the outline map for two coherent courses per secots
+    - Identify the framework decisions needed for modules and the final award
+notes: |
+  Set the purpose clearly. This is an orientation and first design step,
+  not an attempt to complete a microcredential in ten minutes.
+dok: 1
 ---
 
 --- slide
@@ -24,36 +36,7 @@ layout: Full
 full:
   type: image
   src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: ""
----
-
---- slide
-id: wp52-01
-layout: Title
-title: WP5.2 Microcredential design
-subtitle: 10-minute consortium partner workshop introduction
-notes: |
-  Welcome partners. This is not a session about filling in a template.
-  It is the first design conversation about how each course will create
-  a coherent route between taught learning and workplace-based learning.
----
-
---- slide
-id: wp52-02
-layout: Full
-title: By the end, partners will be able to
-full:
-  type: ul
-  color: accent1
-  items:
-    - Explain the route from 12 validated occupational profiles to eight microcredentials
-    - Identify the 170-hour commitment within each microcredential
-    - Sketch the outline map for two coherent courses
-    - Identify the framework decisions needed for modules and the final award
-notes: |
-  Set the purpose clearly. This is an orientation and first design step,
-  not an attempt to complete a microcredential in ten minutes.
-dok: 1
+title: Direction of travel
 ---
 
 --- slide
@@ -147,4 +130,10 @@ notes: |
   Close by asking each partner to nominate an owner and date for their
   first two-course outline map.
 dok: 2
+---
+
+--- slide
+id: s-07
+layout: Full
+title: ""
 ---
