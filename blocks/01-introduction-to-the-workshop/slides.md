@@ -13,6 +13,26 @@ role: title
 ---
 
 --- slide
+id: s-03
+layout: Full
+full:
+  type: image
+  src: media/codex-image-24-aug-2026-11-51-22.jpg
+title: ""
+---
+
+--- slide
+id: wp52-01
+layout: Title
+title: WP5.2 Microcredential design
+subtitle: 10-minute consortium partner workshop introduction
+notes: |
+  Welcome partners. This is not a session about filling in a template.
+  It is the first design conversation about how each course will create
+  a coherent route between taught learning and workplace-based learning.
+---
+
+--- slide
 id: wp52-02
 layout: Full
 title: By the end, partners will be able to
@@ -20,23 +40,14 @@ full:
   type: ul
   color: accent1
   items:
-    - Explain the route from validated occupational profiles to microcredentials
+    - Explain the route from 12 validated occupational profiles to eight microcredentials
     - Identify the 170-hour commitment within each microcredential
-    - Sketch the outline map for two coherent courses per secots
+    - Sketch the outline map for two coherent courses
     - Identify the framework decisions needed for modules and the final award
 notes: |
   Set the purpose clearly. This is an orientation and first design step,
   not an attempt to complete a microcredential in ten minutes.
 dok: 1
----
-
---- slide
-id: s-03
-layout: Full
-full:
-  type: image
-  src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: Direction of travel
 ---
 
 --- slide
@@ -46,34 +57,16 @@ title: The design work starts from a clear project route
 full:
   type: ul
   items:
-    - WP3 validated 12 occupational profiles
-    - The consortium shortlisted the final eight profilesPartners develop and deliver microcredentials from month 18 to month 36
+    - text: WP3 validated 12 occupational profiles
+      items:
+        - The consortium shortlisted the final eight profiles
+        - Partners develop and deliver microcredentials from month 18 to month 36
+    - Piloting completes by the end of month 48
 notes: |
   Ask: what has changed between the original longlist and the eight
   selected profiles? Take one or two responses. Emphasise that the next
   phase is delivery design, not a return to profile selection.
 dok: 1
----
-
---- slide
-id: s-08
-layout: Cards
-title: Occupational Profiles
-head1:
-  type: p
-  text: Animal Production
-  color: accent1
-head2: ""
-head3: ""
-card1: |
-  Circular Livestock Systems SpecialistLivestock Emissions Mitigation Specialist
-head4: Veterinary
-card4: |-
-  Clinical Educator
-  Clinical Researcher
-card3: "Circular Food Packaging Specialist\nFood Production\_\nBy-Products and Side Streams Valorisation Specialist\n"
-card2: |
-  Climate-Resilient & Regenerative Agriculture Specialist Precision Crop & Irrigation Specialist
 ---
 
 --- slide
@@ -146,10 +139,4 @@ notes: |
   Close by asking each partner to nominate an owner and date for their
   first two-course outline map.
 dok: 2
----
-
---- slide
-id: s-07
-layout: Full
-title: ""
 ---
