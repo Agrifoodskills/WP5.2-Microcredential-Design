@@ -125,7 +125,10 @@ dok: 2
 --- slide
 id: s-07
 layout: Cards
-head2: fffffefswefweefqwfqweeqwfewff
+head2: PLANT PRODUCTION
+head1: ANIMAL PRODUCTION
+head3: "FOOD INDUSTRY\_"
+head4: VETERINARY SECTOR
 ---
 
 --- slide
