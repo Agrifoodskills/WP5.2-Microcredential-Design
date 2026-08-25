@@ -87,8 +87,6 @@ full:
     - 60 hours of workplace-based learning
     - 10 hours of assessment
     - "170 hours in total\_\_"
-    - ""
-    - approximately 6 ECTS
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -155,7 +153,7 @@ card2:
 --- slide
 id: wp52-06
 layout: Comparison
-title: Design for adult learners' work problems
+title: "**Design for adult learners**"
 left_head: Pedagogy
 left:
   type: ul
@@ -178,4 +176,16 @@ notes: |
   Close by asking each partner to nominate an owner and date for their
   first two-course outline map.
 dok: 2
+---
+
+--- slide
+id: s-08
+layout: Full
+title: "**Principles of Adult Learning**"
+full:
+  type: ul
+  items:
+    - Scenario-based learning
+    - "Workplace-based learning\_"
+    - |+
 ---
