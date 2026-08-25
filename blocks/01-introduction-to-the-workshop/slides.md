@@ -7,6 +7,27 @@ dc:
 ---
 
 --- slide
+id: s-01
+layout: Title
+role: title
+---
+
+--- slide
+id: s-02
+layout: Full
+role: outcomes
+---
+
+--- slide
+id: s-03
+layout: Full
+full:
+  type: image
+  src: media/codex-image-24-aug-2026-11-51-22.jpg
+title: ""
+---
+
+--- slide
 id: wp52-01
 layout: Title
 title: WP5.2 Microcredential design
@@ -18,15 +39,6 @@ notes: |
 ---
 
 --- slide
-id: s-03
-layout: Full
-full:
-  type: image
-  src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: Our roadmap for delivery
----
-
---- slide
 id: wp52-02
 layout: Full
 title: By the end, partners will be able to
@@ -34,7 +46,10 @@ full:
   type: ul
   color: accent1
   items:
-    - Explain the route from validated occupational profiles to microcredentials
+    - Explain the route from 12 validated occupational profiles to eight microcredentials
+    - Identify the 170-hour commitment within each microcredential
+    - Sketch the outline map for two coherent courses
+    - Identify the framework decisions needed for modules and the final award
 notes: |
   Set the purpose clearly. This is an orientation and first design step,
   not an attempt to complete a microcredential in ten minutes.
@@ -51,9 +66,8 @@ full:
     - text: WP3 validated 12 occupational profiles
       items:
         - The consortium shortlisted the final eight profiles
-    - text: Partners develop microcredentials from month 18 to month 36
-      items:
-        - Select one for piloting
+        - Partners develop and deliver microcredentials from month 18 to month 36
+    - Piloting completes by the end of month 48
 notes: |
   Ask: what has changed between the original longlist and the eight
   selected profiles? Take one or two responses. Emphasise that the next
@@ -64,16 +78,14 @@ dok: 1
 --- slide
 id: wp52-04
 layout: Full
-title:
-  type: p
-  text: "Each microcredential is a minimum\_\n170-hour learning commitment"
+title: "Each microcredential\_"
 full:
   type: ul
   items:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - 170 hours in total
+    - 170 hours in total — approximately 6 ECTS
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -105,6 +117,12 @@ notes: |
   Prompt them to use EUVETMC for each module and to flag whether the
   final award should use EUVETMC, EUVETD, or C.
 dok: 2
+---
+
+--- slide
+id: s-07
+layout: Cards
+head2: fffffefswefweefqwfqweeqwfewff
 ---
 
 --- slide
