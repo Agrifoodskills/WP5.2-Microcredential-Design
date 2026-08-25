@@ -43,7 +43,7 @@ id: wp52-02
 layout: Full
 title: By the end, partners will be able to
 full:
-  type: ul
+  type: ol
   color: accent1
   items:
     - Explain the route from 12 validated occupational profiles to eight microcredentials
@@ -59,7 +59,7 @@ dok: 1
 --- slide
 id: wp52-03
 layout: Full
-title: The design work starts from a clear project route
+title: "Designing the microcredentials\_"
 full:
   type: ul
   items:
@@ -76,16 +76,29 @@ dok: 1
 ---
 
 --- slide
-id: wp52-04
+id: s-09
 layout: Full
-title: Each microcredential is a minimum 170-hour learning commitment
+title: Microcredential design
 full:
   type: ul
+  items:
+    - Defined as part of the DC4EU framework
+    - |+
+      EUVETMC - MicrocredentialEUVETC - Certification (competence)EUVETD - Diploma (outcome)
+---
+
+--- slide
+id: wp52-04
+layout: Full
+title: "Each microcredential\_"
+full:
+  type: ul
+  color: accent1
   items:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - 170 hours in total — approximately 6 ECTS
+    - "170 hours in total\_\_"
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -120,9 +133,39 @@ dok: 2
 ---
 
 --- slide
+id: s-07
+layout: Cards
+head2: PLANT PRODUCTION
+head1: ANIMAL PRODUCTION
+head3: "FOOD INDUSTRY\_"
+head4: VETERINARY SECTOR
+title: Established Profiles
+card1:
+  type: ul
+  items:
+    - Circular Livestock Systems Specialist
+    - Livestock Emissions Mitigation Specialist
+card4:
+  type: ul
+  items:
+    - Clinical Educator
+    - Clinical Researcher
+card3:
+  type: ul
+  items:
+    - "Circular Food Packaging Specialist\_"
+    - "Food Production By-Products and Side Streams Valorisation Specialist\_"
+card2:
+  type: ul
+  items:
+    - "Climate-Resilient & Regenerative Agriculture Specialist\_"
+    - "Precision Crop & Irrigation Specialist\_"
+---
+
+--- slide
 id: wp52-06
 layout: Comparison
-title: Design for adult learners' work problems
+title: "**Design for adult learners**"
 left_head: Pedagogy
 left:
   type: ul
@@ -145,4 +188,112 @@ notes: |
   Close by asking each partner to nominate an owner and date for their
   first two-course outline map.
 dok: 2
+---
+
+--- slide
+id: adult-prior-learning
+layout: Full
+title: "**Adult learners bring competence**"
+full:
+  type: ul
+  items:
+    - Start with prior workplace experience, learning, and existing evidence
+    - Ask what learners already do confidently, not only what they lack
+    - Recognise prior learning where it meets the required outcome and evidence standard
+notes: |
+  Ask partners: “What would an experienced worker already be able to
+  demonstrate before joining this microcredential?” Capture both formal
+  learning and work experience. The design should build from that starting
+  point, rather than making every learner repeat the same route.
+dok: 2
+---
+
+--- slide
+id: adult-workplace-learning
+layout: Full
+title: Build learning around the workplace
+full:
+  type: ul
+  items:
+    - Use a real work problem as the reason to learn
+    - Give a focused teaching input, then a workplace task
+    - Bring evidence, reflection, and feedback into the next learning moment
+    - Use short, bite-sized sessions where a full day is unnecessary
+notes: |
+  Stress that short sessions are not “less learning”. They work when each
+  session prepares a meaningful workplace action and the learner returns
+  with evidence or questions. A full-day block is needed only for shared
+  practice, observation, simulation, or protected assessment.
+dok: 2
+---
+
+--- slide
+id: adult-andragogy
+layout: Comparison
+title:
+  type: p
+  text: "Design for adult learning,\_\nnot content delivery"
+left_head: Pedagogy-first design
+left:
+  type: ul
+  items:
+    - The timetable and content list come first
+    - The teacher decides the sequence
+    - Learning is separated from workplace use
+right_head: Andragogy-first design
+right:
+  type: ul
+  items:
+    - A workplace problem gives learning its purpose
+    - Prior experience shapes the starting point
+    - Teaching, WBL, reflection, and feedback form one cycle
+notes: |
+  Ask: “What workplace problem makes this competency worth learning now?”
+  If the group cannot name one, the unit is not ready for design. Use the
+  answer to shape the teaching input, WBL activity, and assessment evidence.
+dok: 2
+---
+
+--- slide
+id: competency-progression
+layout: Full
+title: Each session should sit on a visible competency path
+full:
+  type: ol
+  items:
+    - Define the competence or evidence needed to enter the session
+    - State what the learner can demonstrate when the session is complete
+    - Identify the next competency, unit, or workplace task this enables
+    - Make prerequisites, progression, and credit decisions explicit
+notes: |
+  Use the competency map to test every unit. Ask: “What must a learner
+  already be able to do?” Then ask: “What becomes possible after this
+  session?” A session without an entry point or next step is difficult to
+  stack and difficult to recognise.
+dok: 2
+---
+
+--- slide
+id: competency-recognition
+layout: Comparison
+title: Competence can be recognised through more than one route
+left:
+  type: ul
+  items:
+    - Taught learning, workplace-based learning, and assessment
+right:
+  type: ul
+  items:
+    - Prior learning, relevant experience, or equivalent learning elsewhere
+    - |-
+      **
+      **
+notes: |
+  The standard is the outcome and its evidence—not the route taken to reach
+  it. Ask partners to define what evidence would be sufficient for recognition
+  of prior learning or competence assessment, subject to the agreed framework
+  and quality rules.
+dok: 2
+left_head: Learning
+right_head: Recognition
 ---
