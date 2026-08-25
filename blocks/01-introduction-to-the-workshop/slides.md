@@ -163,6 +163,33 @@ card2:
 ---
 
 --- slide
+id: s-10
+layout: Cards
+title: TASKS
+head1: MONDAY
+head2: TUESDAY
+head3: TUESDAY
+head4: WEDNESDAY
+card1:
+  type: p
+  text: |-
+    In sector groups
+
+    Map overall competencies to modules in BOTH courses
+card2:
+  type: p
+  text: "Profile 1\n\nBuild Lesson plans\n\nMap competencies to learning outcomes\n\nDevelop teaching style\nRemote group\nRemote recorded\nReinforcement activity\nFormative assessment\_"
+card3: Profile 2
+card4:
+  type: p
+  text: |-
+    Stacking and cross delivery
+
+
+    Sharing of content
+---
+
+--- slide
 id: wp52-06
 layout: Comparison
 title: "**Design for adult learners**"
@@ -285,7 +312,6 @@ right:
   type: ul
   items:
     - Prior learning, relevant experience, or equivalent learning elsewhere
-    - new
 notes: |
   The standard is the outcome and its evidence—not the route taken to reach
   it. Ask partners to define what evidence would be sufficient for recognition
@@ -294,4 +320,18 @@ notes: |
 dok: 2
 left_head: Learning
 right_head: Recognition
+---
+
+--- slide
+id: s-11
+layout: Full
+title: More than webinars
+full:
+  type: ul
+  items:
+    - Webinars and recorded sessions work well in adult learning
+    - ""
+    - The flipped classroom approach
+    - Add reinforcement
+    - Use in person time wisely
 ---
