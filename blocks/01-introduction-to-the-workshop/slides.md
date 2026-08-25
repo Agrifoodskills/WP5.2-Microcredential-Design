@@ -46,18 +46,31 @@ title: The design work starts from a clear project route
 full:
   type: ul
   items:
-    - text: WP3 validated 12 occupational profiles
-      items:
-        - The consortium shortlisted the final eight profiles
-        - Partners develop and deliver microcredentials from month 18 to month 36
-        - |+
-
-    - Piloting completes by the end of month 48
+    - WP3 validated 12 occupational profiles
+    - The consortium shortlisted the final eight profilesPartners develop and deliver microcredentials from month 18 to month 36
 notes: |
   Ask: what has changed between the original longlist and the eight
   selected profiles? Take one or two responses. Emphasise that the next
   phase is delivery design, not a return to profile selection.
 dok: 1
+---
+
+--- slide
+id: s-08
+layout: Cards
+title: Occupational Profiles
+head1:
+  type: p
+  text: Animal Production
+  color: accent1
+head2: ""
+head3: ""
+card1: ""
+head4: Veterinary
+card4: |-
+  Clinical Educator
+  Clinical Researcher
+card3: ""
 ---
 
 --- slide
