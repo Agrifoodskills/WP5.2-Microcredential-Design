@@ -7,15 +7,6 @@ dc:
 ---
 
 --- slide
-id: s-03
-layout: Full
-full:
-  type: image
-  src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: ""
----
-
---- slide
 id: wp52-01
 layout: Title
 title: WP5.2 Microcredential design
@@ -24,6 +15,15 @@ notes: |
   Welcome partners. This is not a session about filling in a template.
   It is the first design conversation about how each course will create
   a coherent route between taught learning and workplace-based learning.
+---
+
+--- slide
+id: s-03
+layout: Full
+full:
+  type: image
+  src: media/codex-image-24-aug-2026-11-51-22.jpg
+title: ""
 ---
 
 --- slide
@@ -160,17 +160,14 @@ head3: TUESDAY
 head4: WEDNESDAY
 card1:
   type: p
-  text: |-
-    In sector groups
-
-    Map overall competencies to modules in BOTH courses
+  text: "Introduction\_\n\nWhat Erasmus holds\n\nIn sector groups\n\nMap overall competencies to modules in BOTH courses"
 card2:
   type: p
   text: "Profile 1\n\nBuild Lesson plans\n\nMap competencies to learning outcomes\n\nDevelop teaching style\nRemote group\nRemote recorded\nReinforcement activity\nFormative assessment\_"
 card3: Profile 2
 card4:
   type: p
-  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy\n\nDefin"
+  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\nWhat is already available\n\nDefining the assessment strategy\n\nDefin"
 ---
 
 --- slide
