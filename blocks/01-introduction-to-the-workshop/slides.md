@@ -285,9 +285,7 @@ right:
   type: ul
   items:
     - Prior learning, relevant experience, or equivalent learning elsewhere
-    - |-
-      **
-      **
+    - new
 notes: |
   The standard is the outcome and its evidence—not the route taken to reach
   it. Ask partners to define what evidence would be sufficient for recognition
