@@ -78,15 +78,17 @@ dok: 1
 --- slide
 id: wp52-04
 layout: Full
-title: Each microcredential
+title: "Each microcredential\_"
 full:
-  type: p
+  type: ul
   color: accent1
-  text: |-
-    60 hours of teaching
-    60 hours of workplace-based learning
-    10 hours of assessment
-    170 hours in total — approximately 6 ECTS
+  items:
+    - 60 hours of teaching
+    - 60 hours of workplace-based learning
+    - 10 hours of assessment
+    - "170 hours in total\_\_"
+    - ""
+    - approximately 6 ECTS
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -118,6 +120,12 @@ notes: |
   Prompt them to use EUVETMC for each module and to flag whether the
   final award should use EUVETMC, EUVETD, or C.
 dok: 2
+---
+
+--- slide
+id: s-07
+layout: Cards
+head2: fffffefswefweefqwfqweeqwfewff
 ---
 
 --- slide
