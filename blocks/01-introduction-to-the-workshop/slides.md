@@ -7,18 +7,6 @@ dc:
 ---
 
 --- slide
-id: s-01
-layout: Title
-role: title
----
-
---- slide
-id: s-02
-layout: Full
-role: outcomes
----
-
---- slide
 id: s-03
 layout: Full
 full:
@@ -182,11 +170,7 @@ card2:
 card3: Profile 2
 card4:
   type: p
-  text: |-
-    Stacking and cross delivery
-
-
-    Sharing of content
+  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy\n\nDefin"
 ---
 
 --- slide
@@ -301,6 +285,20 @@ dok: 2
 ---
 
 --- slide
+id: s-11
+layout: Full
+title: More than webinars
+full:
+  type: p
+  text: |-
+    Webinars and recorded sessions work well in adult learning
+
+    The flipped classroom approach
+    Add reinforcement
+    Use in person time wisely
+---
+
+--- slide
 id: competency-recognition
 layout: Comparison
 title: Competence can be recognised through more than one route
@@ -320,18 +318,4 @@ notes: |
 dok: 2
 left_head: Learning
 right_head: Recognition
----
-
---- slide
-id: s-11
-layout: Full
-title: More than webinars
-full:
-  type: ul
-  items:
-    - Webinars and recorded sessions work well in adult learning
-    - ""
-    - The flipped classroom approach
-    - Add reinforcement
-    - Use in person time wisely
 ---
