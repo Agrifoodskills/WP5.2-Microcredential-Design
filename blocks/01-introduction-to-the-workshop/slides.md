@@ -167,7 +167,7 @@ card2:
 card3: Profile 2
 card4:
   type: p
-  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy\n\nDefin"
+  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy"
 ---
 
 --- slide
