@@ -43,7 +43,7 @@ id: wp52-02
 layout: Full
 title: By the end, partners will be able to
 full:
-  type: ul
+  type: ol
   color: accent1
   items:
     - Explain the route from 12 validated occupational profiles to eight microcredentials
@@ -59,7 +59,7 @@ dok: 1
 --- slide
 id: wp52-03
 layout: Full
-title: The design work starts from a clear project route
+title: "Designing the microcredentials\_"
 full:
   type: ul
   items:
@@ -76,16 +76,29 @@ dok: 1
 ---
 
 --- slide
-id: wp52-04
+id: s-09
 layout: Full
-title: Each microcredential is a minimum 170-hour learning commitment
+title: Microcredential design
 full:
   type: ul
+  items:
+    - Defined as part of the DC4EU framework
+    - |+
+      EUVETMC - MicrocredentialEUVETC - Certification (competence)EUVETD - Diploma (outcome)
+---
+
+--- slide
+id: wp52-04
+layout: Full
+title: "Each microcredential\_"
+full:
+  type: ul
+  color: accent1
   items:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - 170 hours in total — approximately 6 ECTS
+    - "170 hours in total\_\_"
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -120,9 +133,39 @@ dok: 2
 ---
 
 --- slide
+id: s-07
+layout: Cards
+head2: PLANT PRODUCTION
+head1: ANIMAL PRODUCTION
+head3: "FOOD INDUSTRY\_"
+head4: VETERINARY SECTOR
+title: Established Profiles
+card1:
+  type: ul
+  items:
+    - Circular Livestock Systems Specialist
+    - Livestock Emissions Mitigation Specialist
+card4:
+  type: ul
+  items:
+    - Clinical Educator
+    - Clinical Researcher
+card3:
+  type: ul
+  items:
+    - "Circular Food Packaging Specialist\_"
+    - "Food Production By-Products and Side Streams Valorisation Specialist\_"
+card2:
+  type: ul
+  items:
+    - "Climate-Resilient & Regenerative Agriculture Specialist\_"
+    - "Precision Crop & Irrigation Specialist\_"
+---
+
+--- slide
 id: wp52-06
 layout: Comparison
-title: Design for adult learners' work problems
+title: "**Design for adult learners**"
 left_head: Pedagogy
 left:
   type: ul
@@ -145,4 +188,16 @@ notes: |
   Close by asking each partner to nominate an owner and date for their
   first two-course outline map.
 dok: 2
+---
+
+--- slide
+id: s-08
+layout: Full
+title: "**Principles of Adult Learning**"
+full:
+  type: ul
+  items:
+    - Scenario-based learning
+    - "Workplace-based learning\_"
+    - |+
 ---
