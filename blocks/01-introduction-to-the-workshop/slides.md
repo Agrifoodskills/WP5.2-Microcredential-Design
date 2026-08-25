@@ -160,14 +160,14 @@ head3: TUESDAY
 head4: WEDNESDAY
 card1:
   type: p
-  text: "Introduction\_\n\nWhat Erasmus holds\n\nIn sector groups\n\nMap overall competencies to modules in BOTH courses"
+  text: "Introduction\_\n\nWhat Erasmus holds\n\n\n**In sector groups**\n\nMap overall competencies to modules in BOTH courses"
 card2:
   type: p
   text: "Profile 1\n\nBuild Lesson plans\n\nMap competencies to learning outcomes\n\nDevelop teaching style\nRemote group\nRemote recorded\nReinforcement activity\nFormative assessment\_"
 card3: Profile 2
 card4:
   type: p
-  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\nWhat is already available\n\nDefining the assessment strategy\n\nDefin"
+  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy\n\nDefin"
 ---
 
 --- slide
@@ -315,4 +315,40 @@ notes: |
 dok: 2
 left_head: Learning
 right_head: Recognition
+---
+
+--- slide
+id: wp52-12
+layout: Title
+title: How existing Erasmus+ projects can guide AGRIFOODSKILLS
+subtitle: Is it FAIR?
+---
+
+--- slide
+id: wp52-13
+layout: Full
+title:
+  type: p
+  text: |-
+    What is 
+    **FAIR?**
+full:
+  type: ul
+  items:
+    - text: "Findable\_"
+      items:
+        - "searchable public repository\_"
+      color: accent1
+    - text: "Accessible\_"
+      items:
+        - retrieval (login permitted)
+      color: accent1
+    - text: "Interoperable\_"
+      items:
+        - beyond pdf
+    - text: "Reusable\_"
+      items:
+        - text: Licensed, Versioned, Adaptable
+          items:
+            - CC-BY-(NC)-SA
 ---
