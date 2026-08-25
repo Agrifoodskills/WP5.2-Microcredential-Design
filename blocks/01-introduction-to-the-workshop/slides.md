@@ -7,9 +7,14 @@ dc:
 ---
 
 --- slide
-id: s-01
+id: wp52-01
 layout: Title
-role: title
+title: WP5.2 Microcredential design
+subtitle: 10-minute consortium partner workshop introduction
+notes: |
+  Welcome partners. This is not a session about filling in a template.
+  It is the first design conversation about how each course will create
+  a coherent route between taught learning and workplace-based learning.
 ---
 
 --- slide
@@ -22,17 +27,6 @@ title: Our roadmap for delivery
 ---
 
 --- slide
-id: wp52-01
-layout: Title
-title: WP5.2 Microcredential design
-subtitle: 10-minute consortium partner workshop introduction
-notes: |
-  Welcome partners. This is not a session about filling in a template.
-  It is the first design conversation about how each course will create
-  a coherent route between taught learning and workplace-based learning.
----
-
---- slide
 id: wp52-02
 layout: Full
 title: By the end, partners will be able to
@@ -40,10 +34,8 @@ full:
   type: ul
   color: accent1
   items:
-    - Explain the route from 12 validated occupational profiles to eight microcredentials
-    - Identify the 170-hour commitment within each microcredential
-    - Sketch the outline map for two coherent courses
-    - Identify the framework decisions needed for modules and the final award
+    - Explain the route from validated occupational profiles to microcredentials
+    - Identify the 170-hour commitment within each microcredentialSketch the outline map for two coherent courses per sector
 notes: |
   Set the purpose clearly. This is an orientation and first design step,
   not an attempt to complete a microcredential in ten minutes.
@@ -57,11 +49,8 @@ title: The design work starts from a clear project route
 full:
   type: ul
   items:
-    - text: WP3 validated 12 occupational profiles
-      items:
-        - The consortium shortlisted the final eight profiles
-        - Partners develop and deliver microcredentials from month 18 to month 36
-    - Piloting completes by the end of month 48
+    - WP3 validated 12 occupational profiles
+    - The consortium shortlisted the final eight profilesPartners develop and deliver microcredentials from month 18 to month 36
 notes: |
   Ask: what has changed between the original longlist and the eight
   selected profiles? Take one or two responses. Emphasise that the next
@@ -72,14 +61,16 @@ dok: 1
 --- slide
 id: wp52-04
 layout: Full
-title: Each microcredential is a minimum 170-hour learning commitment
+title:
+  type: p
+  text: "Each microcredential is a minimum\_\n170-hour learning commitment"
 full:
   type: ul
   items:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - 170 hours in total — approximately 6 ECTS
+    - 170 hours in total
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
