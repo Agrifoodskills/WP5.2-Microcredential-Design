@@ -65,12 +65,15 @@ head1:
   color: accent1
 head2: ""
 head3: ""
-card1: ""
+card1: |
+  Circular Livestock Systems SpecialistLivestock Emissions Mitigation Specialist
 head4: Veterinary
 card4: |-
   Clinical Educator
   Clinical Researcher
-card3: ""
+card3: "Circular Food Packaging Specialist\nFood Production\_\nBy-Products and Side Streams Valorisation Specialist\n"
+card2: |
+  Climate-Resilient & Regenerative Agriculture Specialist Precision Crop & Irrigation Specialist
 ---
 
 --- slide
