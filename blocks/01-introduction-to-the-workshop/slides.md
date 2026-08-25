@@ -129,6 +129,27 @@ head2: PLANT PRODUCTION
 head1: ANIMAL PRODUCTION
 head3: "FOOD INDUSTRY\_"
 head4: VETERINARY SECTOR
+title: Established Profiles
+card1:
+  type: ul
+  items:
+    - Circular Livestock Systems Specialist
+    - Livestock Emissions Mitigation Specialist
+card4:
+  type: ul
+  items:
+    - Clinical Educator
+    - Clinical Researcher
+card3:
+  type: ul
+  items:
+    - "Circular Food Packaging Specialist\_"
+    - "Food Production By-Products and Side Streams Valorisation Specialist\_"
+card2:
+  type: ul
+  items:
+    - "Climate-Resilient & Regenerative Agriculture Specialist\_"
+    - "Precision Crop & Irrigation Specialist\_"
 ---
 
 --- slide
