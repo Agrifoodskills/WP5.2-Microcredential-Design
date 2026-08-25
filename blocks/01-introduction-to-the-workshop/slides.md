@@ -4,6 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
+slide_seq: 18
 ---
 
 --- slide
@@ -371,6 +372,31 @@ full:
 ---
 
 --- slide
+id: profile-climate-regenerative-agriculture
+layout: Cards
+title: Climate-Resilient & Regenerative Agriculture Specialist
+head1: "Completed projects: accessible but flat"
+card1:
+  type: ul
+  items: [AGFORWEB, NECTAR, OFAFFU]
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [SAFFT4EU]
+    - REGE FARMS
+    - ReGENERATE
+    - RELOOP
+    - AgriGreenSkills
+    - FARMS 5.0
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
 id: profile-precision-crop-irrigation
 layout: Cards
 title: Precision Crop & Irrigation Specialist
@@ -392,31 +418,6 @@ card4:
   items:
     - Future of Precision Agriculture
     - Climate Smart Agriculture
-notes: |
-  Introduce the project names only.
----
-
---- slide
-id: profile-climate-regenerative-agriculture
-layout: Cards
-title: Climate-Resilient & Regenerative Agriculture Specialist
-head1: "Completed projects: accessible but flat"
-card1:
-  type: ul
-  items: [AGFORWEB, NECTAR, OFAFFU]
-head2: "Completed projects: genuine OER"
-card2: ""
-head3: "Completed projects: not publicly accessible"
-card3: ""
-head4: Live projects and opportunities
-card4:
-  type: ul
-  items: [SAFFT4EU]
-    - REGE FARMS
-    - ReGENERATE
-    - RELOOP
-    - AgriGreenSkills
-    - FARMS 5.0
 notes: |
   Introduce the project names only.
 ---
@@ -463,7 +464,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-16
+id: profile-circular-food-packaging
 layout: Cards
 title: Circular Food Packaging Specialist
 head1: "Completed projects: accessible but flat"
@@ -479,7 +480,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-17
+id: profile-food-by-products
 layout: Cards
 title: Food Production By-Products and Side Streams Valorisation Specialist
 head1: "Completed projects: accessible but flat"
@@ -499,7 +500,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-18
+id: profile-veterinary-clinical-educator
 layout: Cards
 title: Veterinary Clinician-Clinical Educator
 head1: "Completed projects: accessible but flat"
@@ -512,4 +513,23 @@ head4: Live projects and opportunities
 card4: I-RESTART
 notes: |
   Introduce the project name only.
+---
+
+--- slide
+id: profile-veterinary-clinical-researcher
+layout: Cards
+title: Veterinary Clinician-Clinical Researcher
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [I-RESTART]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
 ---
