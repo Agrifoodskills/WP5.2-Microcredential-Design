@@ -35,7 +35,6 @@ full:
   color: accent1
   items:
     - Explain the route from validated occupational profiles to microcredentials
-    - Identify the 170-hour commitment within each microcredentialSketch the outline map for two coherent courses per sector
 notes: |
   Set the purpose clearly. This is an orientation and first design step,
   not an attempt to complete a microcredential in ten minutes.
@@ -49,8 +48,12 @@ title: The design work starts from a clear project route
 full:
   type: ul
   items:
-    - WP3 validated 12 occupational profiles
-    - The consortium shortlisted the final eight profilesPartners develop and deliver microcredentials from month 18 to month 36
+    - text: WP3 validated 12 occupational profiles
+      items:
+        - The consortium shortlisted the final eight profiles
+    - text: Partners develop microcredentials from month 18 to month 36
+      items:
+        - Select one for piloting
 notes: |
   Ask: what has changed between the original longlist and the eight
   selected profiles? Take one or two responses. Emphasise that the next
