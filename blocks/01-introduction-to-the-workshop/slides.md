@@ -81,11 +81,14 @@ layout: Full
 title: "Each microcredential\_"
 full:
   type: ul
+  color: accent1
   items:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - 170 hours in total — approximately 6 ECTS
+    - "170 hours in total\_\_"
+    - ""
+    - approximately 6 ECTS
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
