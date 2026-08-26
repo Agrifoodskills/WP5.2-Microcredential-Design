@@ -387,3 +387,166 @@ full:
         - Inaccessible - failed login broken links
         - New projects
 ---
+
+--- slide
+id: profile-climate-regenerative-agriculture
+layout: Cards
+title: Climate-Resilient & Regenerative Agriculture Specialist
+head1: "Completed projects: accessible but flat"
+card1:
+  type: ul
+  items: [AGFORWEB, NECTAR, OFAFFU]
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [SAFFT4EU]
+    - REGE FARMS
+    - ReGENERATE
+    - RELOOP
+    - AgriGreenSkills
+    - FARMS 5.0
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-precision-crop-irrigation
+layout: Cards
+title: Precision Crop & Irrigation Specialist
+head1: "Completed projects: accessible but flat"
+card1: InnoCSA
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3:
+  type: ul
+  items:
+    - Smart Farming
+    - AgriDrone
+    - AgroPro
+    - AGRILEARN
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items:
+    - Future of Precision Agriculture
+    - Climate Smart Agriculture
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-circular-livestock-systems
+layout: Cards
+title: Circular Livestock Systems Specialist
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3:
+  type: ul
+  items: [FASTOOL]
+    - EDUTRAINING DIGITAL LIVESTOCK
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [VITAL, PROFARMED]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-livestock-emissions-mitigation
+layout: Cards
+title: Livestock Emissions Mitigation Specialist
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [VITAL]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-circular-food-packaging
+layout: Cards
+title: Circular Food Packaging Specialist
+head1: "Completed projects: accessible but flat"
+card1: FitNESS
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4: ""
+notes: |
+  Introduce the project name only.
+---
+
+--- slide
+id: profile-food-by-products
+layout: Cards
+title: Food Production By-Products and Side Streams Valorisation Specialist
+head1: "Completed projects: accessible but flat"
+card1:
+  type: ul
+  items:
+    - Strategies for the Valorisation of Horticultural and Agricultural By-products
+    - CitriVET
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: CitriVET
+head4: Live projects and opportunities
+card4: MedSEVa
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-veterinary-clinical-educator
+layout: Cards
+title: Veterinary Clinician-Clinical Educator
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4: I-RESTART
+notes: |
+  Introduce the project name only.
+---
+
+--- slide
+id: profile-veterinary-clinical-researcher
+layout: Cards
+title: Veterinary Clinician-Clinical Researcher
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [I-RESTART]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
+---
