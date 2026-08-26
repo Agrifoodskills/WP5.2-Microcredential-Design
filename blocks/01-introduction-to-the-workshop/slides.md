@@ -546,7 +546,6 @@ head4: Live projects and opportunities
 card4:
   type: ul
   items: [I-RESTART]
-    - AGRIMED C
 notes: |
   Introduce the project names only.
 ---
