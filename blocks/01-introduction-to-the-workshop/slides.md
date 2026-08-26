@@ -24,7 +24,7 @@ layout: Full
 full:
   type: image
   src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: ""
+title: The project road map
 ---
 
 --- slide
@@ -332,39 +332,22 @@ title: |-
 full:
   type: ul
   items:
-    - text: "Findable\_"
+    - color: accent1
+      text: "Findable\_"
       items:
         - "searchable public repository\_"
-      color: accent1
-    - text: "Accessible\_"
+    - color: accent1
+      text: "Accessible\_"
       items:
         - retrieval (login permitted)
-      color: accent1
-    - text: "Interoperable\_"
+    - text: "[Interoperable]{accent1}\_"
       items:
         - beyond pdf
-    - text: "Reusable\_"
+    - text: "[Reusable]{accent1}\_"
       items:
         - text: Licensed, Versioned, Adaptable
           items:
             - CC-BY-(NC)-SA
----
-
---- slide
-id: wp52-14
-layout: Full
-title: WP3.1 Appendix 6
-full:
-  type: ul
-  items:
-    - Occupational profiles through an Erasmus Lens
-    - Existing outputs that map to occupational profiles
-    - text: Then identify which ones could be valuable to the consortium
-      items:
-        - "Flat content - limited reuse, content\_"
-        - "Accessible OER - eg PPT\_"
-        - Inaccessible - failed login broken links
-        - New projects
 ---
 
 --- slide
