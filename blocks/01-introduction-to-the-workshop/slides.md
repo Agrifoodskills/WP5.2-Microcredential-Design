@@ -239,9 +239,7 @@ dok: 2
 --- slide
 id: adult-andragogy
 layout: Comparison
-title:
-  type: p
-  text: "Design for adult learning,\_\nnot content delivery"
+title: "Design for adult learning,\_\nnot content delivery"
 left_head: Pedagogy-first design
 left:
   type: ul
@@ -328,11 +326,9 @@ subtitle: Is it FAIR?
 --- slide
 id: wp52-13
 layout: Full
-title:
-  type: p
-  text: |-
-    What is 
-    **FAIR?**
+title: |-
+  What is 
+  **FAIR?**
 full:
   type: ul
   items:
