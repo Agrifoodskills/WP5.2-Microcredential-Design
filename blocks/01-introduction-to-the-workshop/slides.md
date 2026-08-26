@@ -4,15 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
----
-
---- slide
-id: s-03
-layout: Full
-full:
-  type: image
-  src: media/codex-image-24-aug-2026-11-51-22.jpg
-title: ""
+slide_seq: 23
 ---
 
 --- slide
@@ -24,6 +16,15 @@ notes: |
   Welcome partners. This is not a session about filling in a template.
   It is the first design conversation about how each course will create
   a coherent route between taught learning and workplace-based learning.
+---
+
+--- slide
+id: s-03
+layout: Full
+full:
+  type: image
+  src: media/codex-image-24-aug-2026-11-51-22.jpg
+title: The project road map
 ---
 
 --- slide
@@ -160,17 +161,14 @@ head3: TUESDAY
 head4: WEDNESDAY
 card1:
   type: p
-  text: |-
-    In sector groups
-
-    Map overall competencies to modules in BOTH courses
+  text: "Introduction\_\n\nWhat Erasmus holds\n\n\n**In sector groups**\n\nMap overall competencies to modules in BOTH courses"
 card2:
   type: p
   text: "Profile 1\n\nBuild Lesson plans\n\nMap competencies to learning outcomes\n\nDevelop teaching style\nRemote group\nRemote recorded\nReinforcement activity\nFormative assessment\_"
 card3: Profile 2
 card4:
   type: p
-  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy\n\nDefin"
+  text: "Stacking and cross delivery\n\n\nSharing of content\_ and modules\n\nDefining the assessment strategy"
 ---
 
 --- slide
@@ -241,9 +239,7 @@ dok: 2
 --- slide
 id: adult-andragogy
 layout: Comparison
-title:
-  type: p
-  text: "Design for adult learning,\_\nnot content delivery"
+title: "Design for adult learning,\_\nnot content delivery"
 left_head: Pedagogy-first design
 left:
   type: ul
@@ -318,4 +314,218 @@ notes: |
 dok: 2
 left_head: Learning
 right_head: Recognition
+---
+
+--- slide
+id: wp52-12
+layout: Title
+title: How existing Erasmus+ projects can guide AGRIFOODSKILLS
+subtitle: Is it FAIR?
+---
+
+--- slide
+id: wp52-13
+layout: Full
+title: |-
+  What is 
+  **FAIR?**
+full:
+  type: ul
+  items:
+    - color: accent1
+      text: "Findable\_"
+      items:
+        - "searchable public repository\_"
+    - color: accent1
+      text: "Accessible\_"
+      items:
+        - retrieval (login permitted)
+    - text: "[Interoperable]{accent1}\_"
+      items:
+        - beyond pdf
+    - text: "[Reusable]{accent1}\_"
+      items:
+        - text: Licensed, Versioned, Adaptable
+          items:
+            - CC-BY-(NC)-SA
+---
+
+--- slide
+id: wp52-23
+layout: Full
+title: WP3.1 Appendix 6
+full:
+  type: ul
+  items:
+    - Occupational profiles through an Erasmus Lens
+    - Existing outputs that map to occupational profiles
+    - text: Then identify which ones could be valuable to the consortium
+      items:
+        - "Flat content - limited reuse, content\_"
+        - "Accessible OER - eg PPT\_"
+        - Inaccessible - failed login broken links
+        - New projects
+---
+
+--- slide
+id: profile-climate-regenerative-agriculture
+layout: Cards
+title: Climate-Resilient & Regenerative Agriculture Specialist
+head1: "Completed projects: accessible but flat"
+card1:
+  type: ul
+  items: [AGFORWEB, NECTAR, OFAFFU]
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [SAFFT4EU]
+    - REGE FARMS
+    - ReGENERATE
+    - RELOOP
+    - AgriGreenSkills
+    - FARMS 5.0
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-precision-crop-irrigation
+layout: Cards
+title: Precision Crop & Irrigation Specialist
+head1: "Completed projects: accessible but flat"
+card1: InnoCSA
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3:
+  type: ul
+  items:
+    - Smart Farming
+    - AgriDrone
+    - AgroPro
+    - AGRILEARN
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items:
+    - Future of Precision Agriculture
+    - Climate Smart Agriculture
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-circular-livestock-systems
+layout: Cards
+title: Circular Livestock Systems Specialist
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3:
+  type: ul
+  items: [FASTOOL]
+    - EDUTRAINING DIGITAL LIVESTOCK
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [VITAL, PROFARMED]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-livestock-emissions-mitigation
+layout: Cards
+title: Livestock Emissions Mitigation Specialist
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [VITAL]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-circular-food-packaging
+layout: Cards
+title: Circular Food Packaging Specialist
+head1: "Completed projects: accessible but flat"
+card1: FitNESS
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4: ""
+notes: |
+  Introduce the project name only.
+---
+
+--- slide
+id: profile-food-by-products
+layout: Cards
+title: Food Production By-Products and Side Streams Valorisation Specialist
+head1: "Completed projects: accessible but flat"
+card1:
+  type: ul
+  items:
+    - Strategies for the Valorisation of Horticultural and Agricultural By-products
+    - CitriVET
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: CitriVET
+head4: Live projects and opportunities
+card4: MedSEVa
+notes: |
+  Introduce the project names only.
+---
+
+--- slide
+id: profile-veterinary-clinical-educator
+layout: Cards
+title: Veterinary Clinician-Clinical Educator
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4: I-RESTART
+notes: |
+  Introduce the project name only.
+---
+
+--- slide
+id: profile-veterinary-clinical-researcher
+layout: Cards
+title: Veterinary Clinician-Clinical Researcher
+head1: "Completed projects: accessible but flat"
+card1: ""
+head2: "Completed projects: genuine OER"
+card2: ""
+head3: "Completed projects: not publicly accessible"
+card3: ""
+head4: Live projects and opportunities
+card4:
+  type: ul
+  items: [I-RESTART]
+    - AGRIMED C
+notes: |
+  Introduce the project names only.
 ---
