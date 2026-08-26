@@ -4,7 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
-slide_seq: 22
+slide_seq: 23
 ---
 
 --- slide
@@ -372,81 +372,20 @@ full:
 ---
 
 --- slide
-id: profile-precision-crop-irrigation
-layout: Cards
-title: Precision Crop & Irrigation Specialist
-head1: "Completed projects: accessible but flat"
-card1: InnoCSA
-head2: "Completed projects: genuine OER"
-card2: ""
-head3: "Completed projects: not publicly accessible"
-card3:
+id: wp52-23
+layout: Full
+title: WP3.1 Appendix 6
+full:
   type: ul
   items:
-    - Smart Farming
-    - AgriDrone
-    - AgroPro
-    - AGRILEARN
-head4: Live projects and opportunities
-card4:
-  type: ul
-  items:
-    - Future of Precision Agriculture
-    - Climate Smart Agriculture
-notes: |
-  Introduce the project names only.
----
-
---- slide
-id: profile-circular-food-packaging
-layout: Cards
-title: Circular Food Packaging Specialist
-head1: "Completed projects: accessible but flat"
-card1: FitNESS
-head2: "Completed projects: genuine OER"
-card2: ""
-head3: "Completed projects: not publicly accessible"
-card3: ""
-head4: Live projects and opportunities
-card4: ""
-notes: |
-  Introduce the project name only.
----
-
---- slide
-id: profile-food-by-products
-layout: Cards
-title: Food Production By-Products and Side Streams Valorisation Specialist
-head1: "Completed projects: accessible but flat"
-card1:
-  type: ul
-  items:
-    - Strategies for the Valorisation of Horticultural and Agricultural By-products
-    - CitriVET
-head2: "Completed projects: genuine OER"
-card2: ""
-head3: "Completed projects: not publicly accessible"
-card3: CitriVET
-head4: Live projects and opportunities
-card4: MedSEVa
-notes: |
-  Introduce the project names only.
----
-
---- slide
-id: profile-veterinary-clinical-educator
-layout: Cards
-title: Veterinary Clinician-Clinical Educator
-head1: "Completed projects: accessible but flat"
-card1: ""
-head2: "Completed projects: genuine OER"
-card2: ""
-head3: "Completed projects: not publicly accessible"
-card3: ""
-head4: Live projects and opportunities
-card4: I-RESTART
-notes: |
-  Introduce the project name only.
+    - Occupational profiles through an Erasmus Lens
+    - Existing outputs that map to occupational profiles
+    - text: Then identify which ones could be valuable to the consortium
+      items:
+        - "Flat content - limited reuse, content\_"
+        - "Accessible OER - eg PPT\_"
+        - Inaccessible - failed login broken links
+        - New projects
 ---
 
 --- slide
@@ -475,7 +414,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-19
+id: profile-precision-crop-irrigation
 layout: Cards
 title: Precision Crop & Irrigation Specialist
 head1: "Completed projects: accessible but flat"
@@ -542,7 +481,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-20
+id: profile-circular-food-packaging
 layout: Cards
 title: Circular Food Packaging Specialist
 head1: "Completed projects: accessible but flat"
@@ -558,7 +497,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-21
+id: profile-food-by-products
 layout: Cards
 title: Food Production By-Products and Side Streams Valorisation Specialist
 head1: "Completed projects: accessible but flat"
@@ -578,7 +517,7 @@ notes: |
 ---
 
 --- slide
-id: wp52-22
+id: profile-veterinary-clinical-educator
 layout: Cards
 title: Veterinary Clinician-Clinical Educator
 head1: "Completed projects: accessible but flat"
