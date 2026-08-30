@@ -4,14 +4,14 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
-slide_seq: 23
+slide_seq: 24
 ---
 
 --- slide
 id: wp52-01
 layout: Title
 title: WP5.2 Microcredential design
-subtitle: 10-minute consortium partner workshop introduction
+subtitle: Workshop Introduction
 notes: |
   Welcome partners. This is not a session about filling in a template.
   It is the first design conversation about how each course will create
@@ -25,24 +25,6 @@ full:
   type: image
   src: media/codex-image-24-aug-2026-11-51-22.jpg
 title: The project road map
----
-
---- slide
-id: wp52-02
-layout: Full
-title: By the end, partners will be able to
-full:
-  type: ol
-  color: accent1
-  items:
-    - Explain the route from 12 validated occupational profiles to eight microcredentials
-    - Identify the 170-hour commitment within each microcredential
-    - Sketch the outline map for two coherent courses
-    - Identify the framework decisions needed for modules and the final award
-notes: |
-  Set the purpose clearly. This is an orientation and first design step,
-  not an attempt to complete a microcredential in ten minutes.
-dok: 1
 ---
 
 --- slide
@@ -65,6 +47,22 @@ dok: 1
 ---
 
 --- slide
+id: wp52-24
+layout: Full
+title: Purpose of WP5.2
+full:
+  type: ul
+  items:
+    - WP2,3,4 Identified occupation profiles
+    - 8 lines of occupation profiles
+    - Shared methodology for microcredential development
+    - text: WP 5.1 Covers methodology
+      items:
+        - Microcredential design
+        - EQF Equivelence
+---
+
+--- slide
 id: s-09
 layout: Full
 title: Microcredential design
@@ -72,8 +70,11 @@ full:
   type: ul
   items:
     - Defined as part of the DC4EU framework
-    - |+
-      EUVETMC - MicrocredentialEUVETC - Certification (competence)EUVETD - Diploma (outcome)
+    - text: |
+        EUVETMC - MicrocredentialEUVETC - Certification (competence)EUVETD - Diploma (outcome)
+      items:
+        - Learning objective design
+        - ESCO-aligned skills and competencies
 ---
 
 --- slide
@@ -87,7 +88,6 @@ full:
     - 60 hours of teaching
     - 60 hours of workplace-based learning
     - 10 hours of assessment
-    - "170 hours in total\_\_"
 notes: |
   Do not present these as three separate work packages. Ask: where does a
   learner use the taught learning in their workplace, and what evidence
@@ -97,18 +97,18 @@ dok: 2
 
 --- slide
 id: wp52-05
-layout: Split
+layout: Comparison
 title: Map teaching and workplace learning as one coherent route
 left:
   type: ul
   items:
-    - "**Teaching:** no more than three stackable units"
+    - No more than three stackable units
     - Define the knowledge, decision, or skill each unit enables
     - Identify what a learner needs before workplace application
 right:
   type: ul
   items:
-    - "**Workplace-based learning:** no more than three stackable units"
+    - No more than three stackable units
     - Define the authentic activity and evidence for each unit
     - Show how the six units stack towards the final award
 notes: |
@@ -119,6 +119,8 @@ notes: |
   Prompt them to use EUVETMC for each module and to flag whether the
   final award should use EUVETMC, EUVETD, or C.
 dok: 2
+left_head: "[Teaching]{accent2}"
+right_head: Workplace-based learning
 ---
 
 --- slide

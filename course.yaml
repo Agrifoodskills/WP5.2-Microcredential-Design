@@ -1,4 +1,13 @@
-title: "WP5.2 Microcredential Design"
-description: "The WP5.2 Microcredential Design module."
+title: WP5.2 Microcredential Design
+description: The WP5.2 Microcredential Design module.
 structure:
   - block: 01-introduction-to-the-workshop
+  - block: 02-ready-for-independence
+  - block: 03-from-learning-outcomes-to-professional-capability
+  - kind: module
+    title: Pre workshop material
+    children:
+      - block: 04-from-content-coverage-to-learning-activity
+  - kind: module
+    title: Pre workshop
+    children: []
