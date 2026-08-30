@@ -134,6 +134,31 @@ dok: 3
 ---
 
 --- slide
+id: s04-11
+layout: Full
+title: AI Competency framework
+full:
+  type: ul
+  items:
+    - text: EBVS reviewed the existing AI literacy frameworks
+      items:
+        - Most are K12 or before
+    - Four key themes
+    - text: "**Question:**\_"
+      items:
+        - Be able to question AI outputs
+    - text: "**Use:**\_"
+      items:
+        - Use AI responsibly and effectively
+    - text: "**Scrutinise:\_**"
+      items:
+        - Was the model appropriate
+    - text: "**Communicate:**\_"
+      items:
+        - Share when and how AI was used
+---
+
+--- slide
 id: s04-06
 layout: Cards
 title: Assess AI use through QUSC
