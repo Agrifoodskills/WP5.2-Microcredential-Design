@@ -8,6 +8,7 @@ structure:
     title: Pre workshop material
     children:
       - block: 04-from-content-coverage-to-learning-activity
+      - block: 05-assessment-in-an-ai-informed-learning-ecosystem
   - kind: module
     title: Pre workshop
     children: []
