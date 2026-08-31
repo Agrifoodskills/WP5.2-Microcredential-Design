@@ -48,7 +48,7 @@ id: wp52-31
 layout: Full
 full:
   type: image
-  src: blocks/01-introduction-to-the-workshop/media/consortium.jpg
+  src: media/consortium.jpg
 ---
 
 --- slide
@@ -588,7 +588,6 @@ notes: |
 id: wp52-26
 layout: Comparison
 title: TASK 1
-full: ""
 left_head: Teaching modules
 right_head: WBL Modules
 left:
@@ -646,5 +645,5 @@ id: wp52-30
 layout: Picture
 picture:
   type: image
-  src: blocks/01-introduction-to-the-workshop/media/consortium.jpg
+  src: media/consortium.jpg
 ---
