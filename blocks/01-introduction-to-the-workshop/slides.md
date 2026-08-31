@@ -49,6 +49,7 @@ layout: Full
 full:
   type: image
   src: media/consortium.jpg
+dok: 2
 ---
 
 --- slide
@@ -638,12 +639,4 @@ full:
   type: image
   src: media/screenshot-2026-08-31-101624.jpg
   fit: width
----
-
---- slide
-id: wp52-30
-layout: Picture
-picture:
-  type: image
-  src: media/consortium.jpg
 ---
