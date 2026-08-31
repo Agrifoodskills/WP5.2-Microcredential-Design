@@ -4,7 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
-slide_seq: 24
+slide_seq: 29
 ---
 
 --- slide
@@ -28,6 +28,33 @@ title: The project road map
 ---
 
 --- slide
+id: wp52-24
+layout: Full
+title: Purpose of WP5.2
+full:
+  type: ul
+  items:
+    - WP2,3,4 Identified occupation profiles
+    - 8 lines of occupation profiles
+    - Shared methodology for microcredential development
+    - text: WP 5.1 Covers methodology
+      items:
+        - Microcredential design
+        - EQF Equivelence
+---
+
+--- slide
+id: wp52-25
+layout: Picture
+full: ""
+caption: ""
+picture:
+  type: image
+  src: blocks/01-introduction-to-the-workshop/media/consortium.jpg
+  fit: contain
+---
+
+--- slide
 id: wp52-03
 layout: Full
 title: "Designing the microcredentials\_"
@@ -44,22 +71,6 @@ notes: |
   selected profiles? Take one or two responses. Emphasise that the next
   phase is delivery design, not a return to profile selection.
 dok: 1
----
-
---- slide
-id: wp52-24
-layout: Full
-title: Purpose of WP5.2
-full:
-  type: ul
-  items:
-    - WP2,3,4 Identified occupation profiles
-    - 8 lines of occupation profiles
-    - Shared methodology for microcredential development
-    - text: WP 5.1 Covers methodology
-      items:
-        - Microcredential design
-        - EQF Equivelence
 ---
 
 --- slide
@@ -222,7 +233,7 @@ dok: 2
 --- slide
 id: adult-workplace-learning
 layout: Full
-title: Build learning around the workplace
+title: "**Build learning around the workplace**"
 full:
   type: ul
   items:
@@ -241,7 +252,7 @@ dok: 2
 --- slide
 id: adult-andragogy
 layout: Comparison
-title: "Design for adult learning,\_\nnot content delivery"
+title: "**Design for adult learning,\_**\n**not content delivery**"
 left_head: Pedagogy-first design
 left:
   type: ul
@@ -530,4 +541,61 @@ card4:
     - AGRIMED C
 notes: |
   Introduce the project names only.
+---
+
+--- slide
+id: wp52-26
+layout: Comparison
+title: TASK 1
+full: ""
+left_head: Teaching modules
+right_head: WBL Modules
+left:
+  type: p
+  text: |-
+    What are you 3 Microcredentials
+
+
+    What modules sits within them
+
+    What OP competencies sit within them
+right:
+  type: p
+  text: |-
+    Are the WBL modules aligned
+
+
+    Do they share competencies
+
+    Are they distinct
+---
+
+--- slide
+id: wp52-27
+layout: Full
+title: EXAMPLE - TEACHING
+full:
+  type: image
+  src: media/screenshot-2026-08-31-095955.jpg
+  fit: contain
+---
+
+--- slide
+id: wp52-28
+layout: Full
+title: EXAMPLE WBL / Learning
+full:
+  type: image
+  src: media/screenshot-2026-08-31-101615.jpg
+  fit: width
+---
+
+--- slide
+id: wp52-29
+layout: Full
+title: Overview
+full:
+  type: image
+  src: media/screenshot-2026-08-31-101624.jpg
+  fit: width
 ---
