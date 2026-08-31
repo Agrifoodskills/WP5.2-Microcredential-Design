@@ -4,7 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
-slide_seq: 29
+slide_seq: 31
 ---
 
 --- slide
@@ -44,14 +44,11 @@ full:
 ---
 
 --- slide
-id: wp52-25
-layout: Picture
-full: ""
-caption: ""
-picture:
+id: wp52-31
+layout: Full
+full:
   type: image
   src: blocks/01-introduction-to-the-workshop/media/consortium.jpg
-  fit: contain
 ---
 
 --- slide
@@ -277,7 +274,7 @@ dok: 2
 --- slide
 id: competency-progression
 layout: Full
-title: Each session should sit on a visible competency path
+title: "**Each session should sit on a visible competency path**"
 full:
   type: ol
   items:
@@ -296,7 +293,7 @@ dok: 2
 --- slide
 id: s-11
 layout: Full
-title: More than webinars
+title: "**More than webinars**"
 full:
   type: p
   text: |-
@@ -310,7 +307,7 @@ full:
 --- slide
 id: competency-recognition
 layout: Comparison
-title: Competence can be recognised through more than one route
+title: "**Competence can be recognised through more than one route**"
 left:
   type: ul
   items:
@@ -332,7 +329,7 @@ right_head: Recognition
 --- slide
 id: wp52-12
 layout: Title
-title: How existing Erasmus+ projects can guide AGRIFOODSKILLS
+title: "**How existing Erasmus+ projects can guide AGRIFOODSKILLS**"
 subtitle: Is it FAIR?
 ---
 
@@ -353,10 +350,8 @@ full:
       text: "Accessible\_"
       items:
         - retrieval (login permitted)
-    - text: "[Interoperable]{accent1}\_"
-      items:
-        - beyond pdf
-    - text: "[Reusable]{accent1}\_"
+    - "[Interoperable\_beyond pdf]{accent3}"
+    - text: "Reusable\_"
       items:
         - text: Licensed, Versioned, Adaptable
           items:
@@ -389,13 +384,19 @@ card1:
   type: ul
   items: [AGFORWEB, NECTAR, OFAFFU]
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: ""
 head4: Live projects and opportunities
 card4:
   type: ul
-  items: [SAFFT4EU]
+  items:
+    - SAFFT4EU
     - REGE FARMS
     - ReGENERATE
     - RELOOP
@@ -412,7 +413,12 @@ title: Precision Crop & Irrigation Specialist
 head1: "Completed projects: accessible but flat"
 card1: InnoCSA
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3:
   type: ul
@@ -438,16 +444,24 @@ title: Circular Livestock Systems Specialist
 head1: "Completed projects: accessible but flat"
 card1: ""
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3:
   type: ul
-  items: [FASTOOL]
+  items:
+    - FASTOOL
     - EDUTRAINING DIGITAL LIVESTOCK
 head4: Live projects and opportunities
 card4:
   type: ul
-  items: [VITAL, PROFARMED]
+  items:
+    - VITAL
+    - PROFARMED
     - AGRIMED C
 notes: |
   Introduce the project names only.
@@ -460,13 +474,19 @@ title: Livestock Emissions Mitigation Specialist
 head1: "Completed projects: accessible but flat"
 card1: ""
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: ""
 head4: Live projects and opportunities
 card4:
   type: ul
-  items: [VITAL]
+  items:
+    - VITAL
     - AGRIMED C
 notes: |
   Introduce the project names only.
@@ -479,7 +499,12 @@ title: Circular Food Packaging Specialist
 head1: "Completed projects: accessible but flat"
 card1: FitNESS
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: ""
 head4: Live projects and opportunities
@@ -499,7 +524,12 @@ card1:
     - Strategies for the Valorisation of Horticultural and Agricultural By-products
     - CitriVET
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: CitriVET
 head4: Live projects and opportunities
@@ -515,11 +545,16 @@ title: Veterinary Clinician-Clinical Educator
 head1: "Completed projects: accessible but flat"
 card1: ""
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: ""
 head4: Live projects and opportunities
-card4: I-RESTART
+card4: ""
 notes: |
   Introduce the project name only.
 ---
@@ -531,13 +566,19 @@ title: Veterinary Clinician-Clinical Researcher
 head1: "Completed projects: accessible but flat"
 card1: ""
 head2: "Completed projects: genuine OER"
-card2: ""
+card2:
+  type: p
+  text: |-
+    I-RESTART
+
+    FIELDS
 head3: "Completed projects: not publicly accessible"
 card3: ""
 head4: Live projects and opportunities
 card4:
   type: ul
-  items: [I-RESTART]
+  items:
+    - I-RESTART
     - AGRIMED C
 notes: |
   Introduce the project names only.
@@ -598,4 +639,12 @@ full:
   type: image
   src: media/screenshot-2026-08-31-101624.jpg
   fit: width
+---
+
+--- slide
+id: wp52-30
+layout: Picture
+picture:
+  type: image
+  src: blocks/01-introduction-to-the-workshop/media/consortium.jpg
 ---
