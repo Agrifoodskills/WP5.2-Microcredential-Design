@@ -1,4 +1,7 @@
 title: Introduction to the workshop
 duration_minutes: 45
 outcomes: [O1]
-resources: []
+resources:
+  - type: image
+    title: consortium.png
+    path: media/consortium.jpg
