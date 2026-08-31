@@ -4,7 +4,7 @@ title: "Introduction to the workshop"
 version: 0.1.0
 dc:
   creator: "Agrifoodskills"
-slide_seq: 26
+slide_seq: 29
 ---
 
 --- slide
@@ -568,4 +568,34 @@ right:
     Do they share competencies
 
     Are they distinct
+---
+
+--- slide
+id: wp52-27
+layout: Full
+title: EXAMPLE - TEACHING
+full:
+  type: image
+  src: media/screenshot-2026-08-31-095955.jpg
+  fit: contain
+---
+
+--- slide
+id: wp52-28
+layout: Full
+title: EXAMPLE WBL / Learning
+full:
+  type: image
+  src: media/screenshot-2026-08-31-101615.jpg
+  fit: width
+---
+
+--- slide
+id: wp52-29
+layout: Full
+title: Overview
+full:
+  type: image
+  src: media/screenshot-2026-08-31-101624.jpg
+  fit: width
 ---

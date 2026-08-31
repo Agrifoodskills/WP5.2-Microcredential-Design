@@ -5,3 +5,12 @@ resources:
   - type: image
     title: consortium.png
     path: media/consortium.jpg
+  - type: image
+    title: Screenshot 2026-08-31 095955.png
+    path: media/screenshot-2026-08-31-095955.jpg
+  - type: image
+    title: Screenshot 2026-08-31 101615.png
+    path: media/screenshot-2026-08-31-101615.jpg
+  - type: image
+    title: Screenshot 2026-08-31 101624.png
+    path: media/screenshot-2026-08-31-101624.jpg
