@@ -49,6 +49,7 @@ layout: Full
 full:
   type: image
   src: media/consortium.jpg
+  fit: contain
 dok: 2
 ---
 
