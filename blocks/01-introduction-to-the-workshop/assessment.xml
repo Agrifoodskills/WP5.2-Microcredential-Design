@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Q1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What is the mechanism by which large language models hallucinate]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[Large language models are prone to hallucination because they predict the next most likely token. While context (eg knowledge) can influence and reduce hallucination, prediction still means they can occur. ]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[Your answer is correct.]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[Your answer is partially correct.]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[Your answer is incorrect.]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Token probability]]></text>
+      <feedback format="html">
+        <text><![CDATA[Yes LLMs predict tokens]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Context window]]></text>
+      <feedback format="html">
+        <text><![CDATA[Context size can lead to context drift, but not hallucination]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Lack internet access]]></text>
+      <feedback format="html">
+        <text><![CDATA[While knowledge can reduce hallucination, they can still occur]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Limits of training data]]></text>
+      <feedback format="html">
+        <text><![CDATA[]]></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

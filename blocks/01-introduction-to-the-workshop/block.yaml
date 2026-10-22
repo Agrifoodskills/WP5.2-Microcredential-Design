@@ -1,4 +1,10 @@
 title: Introduction to the workshop
 duration_minutes: 45
 outcomes: [O1]
-resources: []
+resources:
+  - type: assessment
+    title: Assessment
+    path: assessment.xml
+  - type: teacherresources
+    title: Teacher resources
+    path: teacher-resources.md
